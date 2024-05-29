@@ -1,5 +1,5 @@
 {
-  "name": "05_currency_converter",
+  "name": "mrc05_currency_converter",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -13,6 +13,7 @@
   "dependencies": {
     "inquirer": "^9.2.22"
   },
+  
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
   }
