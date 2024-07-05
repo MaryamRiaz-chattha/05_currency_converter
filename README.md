@@ -18,3 +18,5 @@ Features
 - Australian Dollar (AUD)
 - Chinese Yuan (CNY)
 - New Zealand Dollar (NZD)
+  To RUn use command:
+  npx mrc05_currency_converter
